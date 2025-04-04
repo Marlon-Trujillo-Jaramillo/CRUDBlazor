@@ -1,0 +1,11 @@
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\bin\Debug\net9.0\CRUD.shared.deps.json
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\bin\Debug\net9.0\CRUD.shared.dll
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\bin\Debug\net9.0\CRUD.shared.pdb
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\CRUD.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\CRUD.shared.AssemblyInfoInputs.cache
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\CRUD.shared.AssemblyInfo.cs
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\CRUD.shared.csproj.CoreCompileInputs.cache
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\CRUD.shared.dll
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\refint\CRUD.shared.dll
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\CRUD.shared.pdb
+C:\Users\elect\OneDrive\Escritorio\CRUDblazor\CRUD.shared\obj\Debug\net9.0\ref\CRUD.shared.dll
